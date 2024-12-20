@@ -21,6 +21,9 @@ module.exports = {
 
 
       },
+      boxShadow: {
+        'card': '1px 1px 2px 1px rgba(107, 114, 128, 0.3),-1px -1px 2px 1px rgba(107, 114, 128, 0.3)',
+      }
     },
   },
   plugins: [],
